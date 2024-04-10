@@ -1,0 +1,17 @@
+F:\大樂透\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.exe
+F:\大樂透\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.deps.json
+F:\大樂透\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.runtimeconfig.json
+F:\大樂透\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.dll
+F:\大樂透\Lottery\Lottery\bin\Debug\net6.0-windows\Lottery.pdb
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.AssemblyReference.cache
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.frmSSQ.resources
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.GenerateResource.cache
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfoInputs.cache
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.AssemblyInfo.cs
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.csproj.CoreCompileInputs.cache
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.dll
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\refint\Lottery.dll
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.pdb
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\Lottery.genruntimeconfig.cache
+F:\大樂透\Lottery\Lottery\obj\Debug\net6.0-windows\ref\Lottery.dll
